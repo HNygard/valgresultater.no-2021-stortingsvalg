@@ -1,0 +1,792 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Lillestrøm",
+    "nr": "3030"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T23:09:30",
+    "sisteStemmer": "2021-09-13T23:09:14"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 60299,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 43701,
+    "fhs": 22626,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 45484,
+    "fhsGodkjente": 24349,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 72.8,
+    "endring": -7.6,
+    "prosentStemmegiving": 76
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 0,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 31.46399,
+          "endring": {
+            "samme": -1.62674,
+            "ekvivalent": 2.75336
+          },
+          "antall": {
+            "total": 13656,
+            "fhs": 7092
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.6679,
+          "endring": {
+            "samme": 1.67577,
+            "ekvivalent": 1.79057
+          },
+          "antall": {
+            "total": 2894,
+            "fhs": 1521
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.96986,
+          "endring": {
+            "samme": 2.25412,
+            "ekvivalent": 1.19516
+          },
+          "antall": {
+            "total": 1723,
+            "fhs": 903
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 10.51795,
+          "endring": {
+            "samme": 4.15609,
+            "ekvivalent": -1.61463
+          },
+          "antall": {
+            "total": 4565,
+            "fhs": 2281
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.0552,
+          "endring": {
+            "samme": -0.38359,
+            "ekvivalent": -0.35512
+          },
+          "antall": {
+            "total": 892,
+            "fhs": 484
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.16575,
+          "endring": {
+            "samme": 0.79378,
+            "ekvivalent": -3.15021
+          },
+          "antall": {
+            "total": 1374,
+            "fhs": 880
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.221,
+          "endring": {
+            "samme": 0.11897,
+            "ekvivalent": 1.48679
+          },
+          "antall": {
+            "total": 1832,
+            "fhs": 889
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 22.8077,
+          "endring": {
+            "samme": -3.58231,
+            "ekvivalent": 2.25384
+          },
+          "antall": {
+            "total": 9899,
+            "fhs": 5222
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 11.53403,
+          "endring": {
+            "samme": -4.68083,
+            "ekvivalent": 1.66872
+          },
+          "antall": {
+            "total": 5006,
+            "fhs": 2450
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.12903,
+          "endring": {
+            "samme": 0.12903,
+            "ekvivalent": 0.12903
+          },
+          "antall": {
+            "total": 56,
+            "fhs": 20
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.09212,
+          "endring": {
+            "samme": 0.95132,
+            "ekvivalent": 0.49291
+          },
+          "antall": {
+            "total": 474,
+            "fhs": 250
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.2834,
+          "endring": {
+            "samme": 0.2834,
+            "ekvivalent": -4.15127
+          },
+          "antall": {
+            "total": 123,
+            "fhs": 42
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.42394,
+          "endring": {
+            "samme": -0.50194,
+            "ekvivalent": -0.60712
+          },
+          "antall": {
+            "total": 184,
+            "fhs": 92
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.17972,
+          "endring": {
+            "samme": 0.17972,
+            "ekvivalent": 0.17972
+          },
+          "antall": {
+            "total": 78,
+            "fhs": 35
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.21197,
+          "endring": {
+            "samme": 0.09743,
+            "ekvivalent": -0.04984
+          },
+          "antall": {
+            "total": 92,
+            "fhs": 54
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.1728,
+          "endring": {
+            "samme": -0.04435,
+            "ekvivalent": -0.15649
+          },
+          "antall": {
+            "total": 75,
+            "fhs": 31
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07373,
+          "endring": {
+            "samme": -0.1124,
+            "ekvivalent": -0.16649
+          },
+          "antall": {
+            "total": 32,
+            "fhs": 12
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.72808,
+          "endring": {
+            "samme": 0.18162,
+            "ekvivalent": -0.91299
+          },
+          "antall": {
+            "total": 316,
+            "fhs": 192
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.20736,
+          "endring": {
+            "samme": 0.20736,
+            "ekvivalent": 0.20736
+          },
+          "antall": {
+            "total": 90,
+            "fhs": 35
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.68891,
+          "endring": {
+            "samme": 0.1687,
+            "ekvivalent": -0.80911
+          },
+          "antall": {
+            "total": 299,
+            "fhs": 119
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "GENE",
+        "navn": "Generasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.09447,
+          "endring": {
+            "samme": 0.09447,
+            "ekvivalent": 0.09447
+          },
+          "antall": {
+            "total": 41,
+            "fhs": 22
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.59661,
+          "endring": {
+            "samme": 1.46565,
+            "ekvivalent": -4.94073
+          },
+          "antall": {
+            "total": 1561,
+            "fhs": 785
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.1909,
+            "ekvivalent": -1.08775
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/02/3030/0000",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-12T18:32:13",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/02/3030/0001",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/volla",
+        "navn": "Volla",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:57:46",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/02/3030/0002",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/midtre+lillestr%C3%B8m",
+        "navn": "Midtre Lillestrøm",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:46",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/02/3030/0003",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/vigernes",
+        "navn": "Vigernes",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:47:49",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/02/3030/0004",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/holt%2Fvestvollen",
+        "navn": "Holt/Vestvollen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:36:54",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/02/3030/0005",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/br%C3%A5n%C3%A5s",
+        "navn": "Brånås",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:47:49",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/02/3030/0006",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/skedsmokorset",
+        "navn": "Skedsmokorset",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:47:31",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/02/3030/0007",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/gamle+skjetten",
+        "navn": "Gamle Skjetten",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:47:49",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2021/st/02/3030/0008",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/skjettenbyen",
+        "navn": "Skjettenbyen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:09:21",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/02/3030/0009",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/str%C3%B8mmen",
+        "navn": "Strømmen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:38",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2021/st/02/3030/0010",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/leirsund",
+        "navn": "Leirsund",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:03",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/02/3030/0011",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/s%C3%B8rum",
+        "navn": "Sørum",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:54:10",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2021/st/02/3030/0012",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/s%C3%B8rumsand",
+        "navn": "Sørumsand",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:47:58",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2021/st/02/3030/0013",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/vesterskaun",
+        "navn": "Vesterskaun",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:47:40",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2021/st/02/3030/0014",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/frogner",
+        "navn": "Frogner",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:48:20",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0015",
+        "href": "/2021/st/02/3030/0015",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/blaker",
+        "navn": "Blaker",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:48:28",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0016",
+        "href": "/2021/st/02/3030/0016",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/garder%C3%A5sen",
+        "navn": "Garderåsen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:48:28",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2021/st/02/3030/0017",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/hovinh%C3%B8gda",
+        "navn": "Hovinhøgda",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:12",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2021/st/02/3030/0018",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/fetsund+%C3%B8st",
+        "navn": "Fetsund øst",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:09:30",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0019",
+        "href": "/2021/st/02/3030/0019",
+        "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m/dalen",
+        "navn": "Dalen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:48:28",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "3030",
+      "href": "/2021/st/02/3030",
+      "hrefNavn": "/2021/st/akershus/lillestr%C3%B8m",
+      "navn": "Lillestrøm",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 0,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "02",
+      "href": "/2021/st/02",
+      "hrefNavn": "/2021/st/akershus",
+      "navn": "Akershus"
+    }
+  }
+}

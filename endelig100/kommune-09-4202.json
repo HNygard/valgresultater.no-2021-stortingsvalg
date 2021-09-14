@@ -1,0 +1,596 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Grimstad",
+    "nr": "4202"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-14T17:00:43",
+    "sisteStemmer": "2021-09-14T17:00:33"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 16974,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 12820,
+    "fhs": 7514,
+    "totalForkastede": 3,
+    "fhsForkastede": 3
+  },
+  "stemmegiving": {
+    "totalGodkjente": 12776,
+    "fhsGodkjente": 7474,
+    "totalForkastede": 14,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 75.5,
+    "endring": -2,
+    "prosentStemmegiving": 75.3
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 100,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 21.42185,
+          "endring": {
+            "samme": 0.63524,
+            "ekvivalent": 2.92353
+          },
+          "antall": {
+            "total": 2730,
+            "fhs": 1586
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.72819,
+          "endring": {
+            "samme": 1.89266,
+            "ekvivalent": 1.68137
+          },
+          "antall": {
+            "total": 730,
+            "fhs": 475
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.36629,
+          "endring": {
+            "samme": 2.39116,
+            "ekvivalent": 0.88662
+          },
+          "antall": {
+            "total": 429,
+            "fhs": 285
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 10.05179,
+          "endring": {
+            "samme": 3.70529,
+            "ekvivalent": 1.40271
+          },
+          "antall": {
+            "total": 1281,
+            "fhs": 630
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.84526,
+          "endring": {
+            "samme": -0.34343,
+            "ekvivalent": -1.56656
+          },
+          "antall": {
+            "total": 1637,
+            "fhs": 987
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.03327,
+          "endring": {
+            "samme": 0.63655,
+            "ekvivalent": -2.63207
+          },
+          "antall": {
+            "total": 514,
+            "fhs": 348
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.87633,
+          "endring": {
+            "samme": 0.08956,
+            "ekvivalent": -0.80528
+          },
+          "antall": {
+            "total": 494,
+            "fhs": 292
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 22.44978,
+          "endring": {
+            "samme": -4.78084,
+            "ekvivalent": -4.33062
+          },
+          "antall": {
+            "total": 2861,
+            "fhs": 1713
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.12335,
+          "endring": {
+            "samme": -6.07102,
+            "ekvivalent": 2.82956
+          },
+          "antall": {
+            "total": 1545,
+            "fhs": 809
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05493,
+          "endring": {
+            "samme": 0.05493,
+            "ekvivalent": 0.05493
+          },
+          "antall": {
+            "total": 7,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.22411,
+          "endring": {
+            "samme": 0.9722,
+            "ekvivalent": 0.69842
+          },
+          "antall": {
+            "total": 156,
+            "fhs": 109
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.26679,
+          "endring": {
+            "samme": -0.00137,
+            "ekvivalent": -0.8441
+          },
+          "antall": {
+            "total": 34,
+            "fhs": 18
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.37665,
+          "endring": {
+            "samme": 0.37665,
+            "ekvivalent": 0.37665
+          },
+          "antall": {
+            "total": 48,
+            "fhs": 38
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.02793,
+          "endring": {
+            "samme": 0.15844,
+            "ekvivalent": -0.17222
+          },
+          "antall": {
+            "total": 131,
+            "fhs": 89
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.21186,
+          "endring": {
+            "samme": 0.0981,
+            "ekvivalent": -0.04602
+          },
+          "antall": {
+            "total": 27,
+            "fhs": 14
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.10986,
+          "endring": {
+            "samme": -0.08517,
+            "ekvivalent": -0.2373
+          },
+          "antall": {
+            "total": 14,
+            "fhs": 7
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.36095,
+          "endring": {
+            "samme": -0.09411,
+            "ekvivalent": -0.69042
+          },
+          "antall": {
+            "total": 46,
+            "fhs": 33
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.47081,
+          "endring": {
+            "samme": 0.47081,
+            "ekvivalent": 0.47081
+          },
+          "antall": {
+            "total": 60,
+            "fhs": 45
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.59636,
+          "endring": {
+            "samme": 0.11692,
+            "ekvivalent": -1.11957
+          },
+          "antall": {
+            "total": 76,
+            "fhs": 32
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.10389,
+          "endring": {
+            "samme": 1.95047,
+            "ekvivalent": -0.38926
+          },
+          "antall": {
+            "total": 523,
+            "fhs": 357
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.10564,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/09/4202/0000",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T17:00:43",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/09/4202/0001",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/frivold",
+        "navn": "Frivold",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:51:28",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/09/4202/0002",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/vik",
+        "navn": "Vik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:51:28",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/09/4202/0005",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/holvika",
+        "navn": "Holvika",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:51:34",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/09/4202/0006",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/fevik",
+        "navn": "Fevik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:51:34",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/09/4202/0011",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/landvik",
+        "navn": "Landvik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:51:34",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2021/st/09/4202/0017",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/eide",
+        "navn": "Eide",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:51:39",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2021/st/09/4202/0018",
+        "hrefNavn": "/2021/st/aust-agder/grimstad/grimstad",
+        "navn": "Grimstad",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:51:39",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "4202",
+      "href": "/2021/st/09/4202",
+      "hrefNavn": "/2021/st/aust-agder/grimstad",
+      "navn": "Grimstad",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 100,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "09",
+      "href": "/2021/st/09",
+      "hrefNavn": "/2021/st/aust-agder",
+      "navn": "Aust-Agder"
+    }
+  }
+}

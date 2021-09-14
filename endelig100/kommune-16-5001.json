@@ -1,0 +1,1071 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Trondheim",
+    "nr": "5001"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-14T20:02:36",
+    "sisteStemmer": "2021-09-14T20:02:31"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 152009,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 120647,
+    "fhs": 79883,
+    "totalForkastede": 152,
+    "fhsForkastede": 117
+  },
+  "stemmegiving": {
+    "totalGodkjente": 120459,
+    "fhsGodkjente": 79781,
+    "totalForkastede": 116,
+    "fhsForkastede": 47
+  },
+  "frammote": {
+    "prosent": 79.4,
+    "endring": -0.7,
+    "prosentStemmegiving": 79.2
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 100,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 30.32336,
+          "endring": {
+            "samme": -2.75926,
+            "ekvivalent": 3.40449
+          },
+          "antall": {
+            "total": 36348,
+            "fhs": 23564
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 11.51266,
+          "endring": {
+            "samme": 1.77316,
+            "ekvivalent": 1.01781
+          },
+          "antall": {
+            "total": 13800,
+            "fhs": 9902
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.88674,
+          "endring": {
+            "samme": 3.06729,
+            "ekvivalent": 0.65615
+          },
+          "antall": {
+            "total": 8255,
+            "fhs": 5775
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.67678,
+          "endring": {
+            "samme": 2.19978,
+            "ekvivalent": -1.61636
+          },
+          "antall": {
+            "total": 9202,
+            "fhs": 5560
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.85287,
+          "endring": {
+            "samme": -0.53757,
+            "ekvivalent": -0.14562
+          },
+          "antall": {
+            "total": 2221,
+            "fhs": 1409
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.54053,
+          "endring": {
+            "samme": 1.52061,
+            "ekvivalent": -3.80964
+          },
+          "antall": {
+            "total": 7840,
+            "fhs": 5971
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.73464,
+          "endring": {
+            "samme": 0.70159,
+            "ekvivalent": 1.39402
+          },
+          "antall": {
+            "total": 6874,
+            "fhs": 4382
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 18.32349,
+          "endring": {
+            "samme": -3.77274,
+            "ekvivalent": -1.09676
+          },
+          "antall": {
+            "total": 21964,
+            "fhs": 14290
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.40314,
+          "endring": {
+            "samme": -2.99132,
+            "ekvivalent": 2.28282
+          },
+          "antall": {
+            "total": 8874,
+            "fhs": 5337
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.10345,
+          "endring": {
+            "samme": 0.10345,
+            "ekvivalent": 0.10345
+          },
+          "antall": {
+            "total": 124,
+            "fhs": 89
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.71996,
+          "endring": {
+            "samme": 0.62802,
+            "ekvivalent": 0.44264
+          },
+          "antall": {
+            "total": 863,
+            "fhs": 587
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.1802,
+          "endring": {
+            "samme": -0.04571,
+            "ekvivalent": -0.43975
+          },
+          "antall": {
+            "total": 216,
+            "fhs": 138
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.22358,
+          "endring": {
+            "samme": 0.22358,
+            "ekvivalent": 0.22358
+          },
+          "antall": {
+            "total": 268,
+            "fhs": 160
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.13181,
+          "endring": {
+            "samme": 0.02936,
+            "ekvivalent": -0.13546
+          },
+          "antall": {
+            "total": 158,
+            "fhs": 100
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.13598,
+          "endring": {
+            "samme": -0.11795,
+            "ekvivalent": -0.1333
+          },
+          "antall": {
+            "total": 163,
+            "fhs": 104
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "NKP",
+        "navn": "Norges Kommunistiske Parti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03754,
+          "endring": {
+            "samme": 0.03754,
+            "ekvivalent": 0.03754
+          },
+          "antall": {
+            "total": 45,
+            "fhs": 26
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.13265,
+          "endring": {
+            "samme": -0.09414,
+            "ekvivalent": -0.15472
+          },
+          "antall": {
+            "total": 159,
+            "fhs": 89
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.82367,
+          "endring": {
+            "samme": -0.03614,
+            "ekvivalent": -2.28786
+          },
+          "antall": {
+            "total": 2186,
+            "fhs": 1741
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.25695,
+          "endring": {
+            "samme": 0.25695,
+            "ekvivalent": 0.25695
+          },
+          "antall": {
+            "total": 308,
+            "fhs": 188
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.64988,
+          "endring": {
+            "samme": 0.00455,
+            "ekvivalent": -0.55786
+          },
+          "antall": {
+            "total": 779,
+            "fhs": 471
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.74579,
+          "endring": {
+            "samme": 0.98496,
+            "ekvivalent": -2.08692
+          },
+          "antall": {
+            "total": 4490,
+            "fhs": 3222
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.18651,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/16/5001/0000",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T20:02:36",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/16/5001/0001",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sverresborg",
+        "navn": "Sverresborg",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:29:50",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/16/5001/0002",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/ila",
+        "navn": "Ila",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:31:02",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/16/5001/0003",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/midtbyen",
+        "navn": "Midtbyen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:57:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/16/5001/0004",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/elgeseter%2F%C3%B8ya",
+        "navn": "Elgeseter/Øya",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:33:44",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/16/5001/0005",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/singsaker",
+        "navn": "Singsaker",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:17:00",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/16/5001/0006",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/rosenborg",
+        "navn": "Rosenborg",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:44:35",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/16/5001/0007",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/lademoen",
+        "navn": "Lademoen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:22:56",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2021/st/16/5001/0008",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/tonstad",
+        "navn": "Tonstad",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:24:40",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/16/5001/0009",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/lade",
+        "navn": "Lade",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:42:34",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2021/st/16/5001/0010",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/trolla",
+        "navn": "Trolla",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:14:33",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/16/5001/0011",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/ranheim",
+        "navn": "Ranheim",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:46:31",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2021/st/16/5001/0012",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/charlottenlund",
+        "navn": "Charlottenlund",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:53:37",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2021/st/16/5001/0013",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/strindheim",
+        "navn": "Strindheim",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:49:33",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2021/st/16/5001/0014",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/blussuvoll",
+        "navn": "Blussuvoll",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:38",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0015",
+        "href": "/2021/st/16/5001/0015",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/nidarvoll",
+        "navn": "Nidarvoll",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:57:17",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0016",
+        "href": "/2021/st/16/5001/0016",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/nardo",
+        "navn": "Nardo",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:58:11",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2021/st/16/5001/0017",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/%C3%A5svang",
+        "navn": "Åsvang",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:26:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2021/st/16/5001/0018",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/solbakken",
+        "navn": "Solbakken",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:26:54",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0019",
+        "href": "/2021/st/16/5001/0019",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/bratsberg",
+        "navn": "Bratsberg",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:44:44",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0020",
+        "href": "/2021/st/16/5001/0020",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/hoeggen",
+        "navn": "Hoeggen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:34:19",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0021",
+        "href": "/2021/st/16/5001/0021",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/hallset",
+        "navn": "Hallset",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:28:48",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0022",
+        "href": "/2021/st/16/5001/0022",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/by%C3%A5sen",
+        "navn": "Byåsen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:28:57",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0023",
+        "href": "/2021/st/16/5001/0023",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/romolslia",
+        "navn": "Romolslia",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:28:57",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0024",
+        "href": "/2021/st/16/5001/0024",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/breidablikk",
+        "navn": "Breidablikk",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:24:10",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0025",
+        "href": "/2021/st/16/5001/0025",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sjetne",
+        "navn": "Sjetne",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:30:38",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0026",
+        "href": "/2021/st/16/5001/0026",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/kolstad",
+        "navn": "Kolstad",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:30:27",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0027",
+        "href": "/2021/st/16/5001/0027",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/flat%C3%A5sen",
+        "navn": "Flatåsen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:35:31",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0028",
+        "href": "/2021/st/16/5001/0028",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/nypvang",
+        "navn": "Nypvang",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:44:44",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0029",
+        "href": "/2021/st/16/5001/0029",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/%C3%A5sheim",
+        "navn": "Åsheim",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:35:31",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0030",
+        "href": "/2021/st/16/5001/0030",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/spongdal",
+        "navn": "Spongdal",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:35:22",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0031",
+        "href": "/2021/st/16/5001/0031",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/ugla",
+        "navn": "Ugla",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:55:01",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0032",
+        "href": "/2021/st/16/5001/0032",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/rye",
+        "navn": "Rye",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:42:30",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0033",
+        "href": "/2021/st/16/5001/0033",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/%C3%A5sveien",
+        "navn": "Åsveien",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:42:49",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0034",
+        "href": "/2021/st/16/5001/0034",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/utleira",
+        "navn": "Utleira",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:51:22",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0035",
+        "href": "/2021/st/16/5001/0035",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/stabbursmoen",
+        "navn": "Stabbursmoen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:42:39",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0036",
+        "href": "/2021/st/16/5001/0036",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/brundalen",
+        "navn": "Brundalen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:42:49",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0037",
+        "href": "/2021/st/16/5001/0037",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/eberg",
+        "navn": "Eberg",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:42:39",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0038",
+        "href": "/2021/st/16/5001/0038",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/m%C3%B8llenberg",
+        "navn": "Møllenberg",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:58:01",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0039",
+        "href": "/2021/st/16/5001/0039",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/vik%C3%A5sen",
+        "navn": "Vikåsen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:44:18",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0040",
+        "href": "/2021/st/16/5001/0040",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sletten",
+        "navn": "Sletten",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:44:27",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0041",
+        "href": "/2021/st/16/5001/0041",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sj%C3%B8en",
+        "navn": "Sjøen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:44:27",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0042",
+        "href": "/2021/st/16/5001/0042",
+        "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/tulluan",
+        "navn": "Tulluan",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:48:01",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "5001",
+      "href": "/2021/st/16/5001",
+      "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag/trondheim",
+      "navn": "Trondheim",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 100,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "16",
+      "href": "/2021/st/16",
+      "hrefNavn": "/2021/st/s%C3%B8r-tr%C3%B8ndelag",
+      "navn": "Sør-Trøndelag"
+    }
+  }
+}

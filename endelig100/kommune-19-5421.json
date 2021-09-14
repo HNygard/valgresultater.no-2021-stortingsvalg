@@ -1,0 +1,830 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Senja",
+    "nr": "5421"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-14T18:25:00",
+    "sisteStemmer": "2021-09-14T18:24:53"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 10903,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 7845,
+    "fhs": 3422,
+    "totalForkastede": 15,
+    "fhsForkastede": 10
+  },
+  "stemmegiving": {
+    "totalGodkjente": 7630,
+    "fhsGodkjente": 3215,
+    "totalForkastede": 18,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 72,
+    "endring": 0,
+    "prosentStemmegiving": 70
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 100,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 27.95478,
+          "endring": {
+            "samme": 4.5958,
+            "ekvivalent": 4.0288
+          },
+          "antall": {
+            "total": 2176,
+            "fhs": 971
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.78314,
+          "endring": {
+            "samme": 0.87289,
+            "ekvivalent": 0.20681
+          },
+          "antall": {
+            "total": 528,
+            "fhs": 296
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.27595,
+          "endring": {
+            "samme": 2.31441,
+            "ekvivalent": 1.50794
+          },
+          "antall": {
+            "total": 255,
+            "fhs": 113
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 23.66393,
+          "endring": {
+            "samme": 3.86905,
+            "ekvivalent": -9.72999
+          },
+          "antall": {
+            "total": 1842,
+            "fhs": 715
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.82631,
+          "endring": {
+            "samme": -0.89164,
+            "ekvivalent": -0.46186
+          },
+          "antall": {
+            "total": 220,
+            "fhs": 101
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.58016,
+          "endring": {
+            "samme": -0.04804,
+            "ekvivalent": -1.52625
+          },
+          "antall": {
+            "total": 123,
+            "fhs": 74
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.24615,
+          "endring": {
+            "samme": -0.29232,
+            "ekvivalent": -0.02616
+          },
+          "antall": {
+            "total": 97,
+            "fhs": 46
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 13.23227,
+          "endring": {
+            "samme": -6.42157,
+            "ekvivalent": -2.76244
+          },
+          "antall": {
+            "total": 1030,
+            "fhs": 462
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 15.62179,
+          "endring": {
+            "samme": -6.42949,
+            "ekvivalent": 6.30255
+          },
+          "antall": {
+            "total": 1216,
+            "fhs": 498
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.15416,
+          "endring": {
+            "samme": 0.15416,
+            "ekvivalent": 0.15416
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 5
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.08119,
+          "endring": {
+            "samme": 1.95299,
+            "ekvivalent": 2.08119
+          },
+          "antall": {
+            "total": 162,
+            "fhs": 71
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03854,
+          "endring": {
+            "samme": 0.03854,
+            "ekvivalent": 0.03854
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.2184,
+          "endring": {
+            "samme": -0.06365,
+            "ekvivalent": 0.2184
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 6
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.65519,
+          "endring": {
+            "samme": 0.65519,
+            "ekvivalent": 0.65519
+          },
+          "antall": {
+            "total": 51,
+            "fhs": 18
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.23124,
+          "endring": {
+            "samme": 0.11586,
+            "ekvivalent": -0.01661
+          },
+          "antall": {
+            "total": 18,
+            "fhs": 8
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.2184,
+          "endring": {
+            "samme": 0.00045,
+            "ekvivalent": -0.09555
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 5
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05139,
+          "endring": {
+            "samme": 0.05139,
+            "ekvivalent": 0.05139
+          },
+          "antall": {
+            "total": 4,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16701,
+          "endring": {
+            "samme": 0.16701,
+            "ekvivalent": 0.16701
+          },
+          "antall": {
+            "total": 13,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.78366,
+          "endring": {
+            "samme": 0.21956,
+            "ekvivalent": -0.88521
+          },
+          "antall": {
+            "total": 61,
+            "fhs": 28
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.81552,
+          "endring": {
+            "samme": 3.07193,
+            "ekvivalent": 3.25372
+          },
+          "antall": {
+            "total": 297,
+            "fhs": 118
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.64103,
+            "ekvivalent": -0.79313
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/19/5421/0000",
+        "hrefNavn": "/2021/st/troms+romsa/senja/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T18:25:00",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/19/5421/0001",
+        "hrefNavn": "/2021/st/troms+romsa/senja/straumen",
+        "navn": "Straumen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:55:14",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/19/5421/0002",
+        "hrefNavn": "/2021/st/troms+romsa/senja/fagernes",
+        "navn": "Fagernes",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:35:51",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/19/5421/0003",
+        "hrefNavn": "/2021/st/troms+romsa/senja/k%C3%A5rvik",
+        "navn": "Kårvik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:55:04",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/19/5421/0004",
+        "hrefNavn": "/2021/st/troms+romsa/senja/bjorelvnes",
+        "navn": "Bjorelvnes",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:30:53",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/19/5421/0005",
+        "hrefNavn": "/2021/st/troms+romsa/senja/trollvik",
+        "navn": "Trollvik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:46:41",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/19/5421/0006",
+        "hrefNavn": "/2021/st/troms+romsa/senja/finnsnes",
+        "navn": "Finnsnes",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:21:37",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/19/5421/0007",
+        "hrefNavn": "/2021/st/troms+romsa/senja/finnfjord",
+        "navn": "Finnfjord",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:36:00",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2021/st/19/5421/0008",
+        "hrefNavn": "/2021/st/troms+romsa/senja/v%C3%A5gan",
+        "navn": "Vågan",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:12",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/19/5421/0009",
+        "hrefNavn": "/2021/st/troms+romsa/senja/laksfjord",
+        "navn": "Laksfjord",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:12",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2021/st/19/5421/0010",
+        "hrefNavn": "/2021/st/troms+romsa/senja/silsand",
+        "navn": "Silsand",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:31:34",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/19/5421/0011",
+        "hrefNavn": "/2021/st/troms+romsa/senja/grasmyr",
+        "navn": "Grasmyr",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:30:36",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2021/st/19/5421/0012",
+        "hrefNavn": "/2021/st/troms+romsa/senja/kvanli",
+        "navn": "Kvanli",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:55:04",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2021/st/19/5421/0013",
+        "hrefNavn": "/2021/st/troms+romsa/senja/skognes",
+        "navn": "Skognes",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:35:15",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2021/st/19/5421/0014",
+        "hrefNavn": "/2021/st/troms+romsa/senja/gibostad",
+        "navn": "Gibostad",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:33:11",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0015",
+        "href": "/2021/st/19/5421/0015",
+        "hrefNavn": "/2021/st/troms+romsa/senja/lysbotn",
+        "navn": "Lysbotn",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:21:27",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0016",
+        "href": "/2021/st/19/5421/0016",
+        "hrefNavn": "/2021/st/troms+romsa/senja/botnhamn",
+        "navn": "Botnhamn",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:58:55",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2021/st/19/5421/0017",
+        "hrefNavn": "/2021/st/troms+romsa/senja/hus%C3%B8y",
+        "navn": "Husøy",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:30:19",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2021/st/19/5421/0018",
+        "hrefNavn": "/2021/st/troms+romsa/senja/fjordg%C3%A5rd",
+        "navn": "Fjordgård",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:39:00",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0019",
+        "href": "/2021/st/19/5421/0019",
+        "hrefNavn": "/2021/st/troms+romsa/senja/vikstranda",
+        "navn": "Vikstranda",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:53:10",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0020",
+        "href": "/2021/st/19/5421/0020",
+        "hrefNavn": "/2021/st/troms+romsa/senja/stonglandet",
+        "navn": "Stonglandet",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:30:11",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0021",
+        "href": "/2021/st/19/5421/0021",
+        "hrefNavn": "/2021/st/troms+romsa/senja/senjahopen",
+        "navn": "Senjahopen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:27:14",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0022",
+        "href": "/2021/st/19/5421/0022",
+        "hrefNavn": "/2021/st/troms+romsa/senja/skaland",
+        "navn": "Skaland",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T20:49:04",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0023",
+        "href": "/2021/st/19/5421/0023",
+        "hrefNavn": "/2021/st/troms+romsa/senja/gryllefjord",
+        "navn": "Gryllefjord",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:46:41",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0024",
+        "href": "/2021/st/19/5421/0024",
+        "hrefNavn": "/2021/st/troms+romsa/senja/torsken",
+        "navn": "Torsken",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:40:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0025",
+        "href": "/2021/st/19/5421/0025",
+        "hrefNavn": "/2021/st/troms+romsa/senja/kaldfarnes",
+        "navn": "KALDFARNES",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:36:00",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "5421",
+      "href": "/2021/st/19/5421",
+      "hrefNavn": "/2021/st/troms+romsa/senja",
+      "navn": "Senja",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 100,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "19",
+      "href": "/2021/st/19",
+      "hrefNavn": "/2021/st/troms+romsa",
+      "navn": "Troms Romsa"
+    }
+  }
+}

@@ -1,0 +1,581 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Surnadal",
+    "nr": "1566"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-14T17:40:33",
+    "sisteStemmer": "2021-09-14T17:40:28"
+  },
+  "merknader": [],
+  "antallsb": 4602,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 3424,
+    "fhs": 1611,
+    "totalForkastede": 9,
+    "fhsForkastede": 6
+  },
+  "stemmegiving": {
+    "totalGodkjente": 3424,
+    "fhsGodkjente": 1611,
+    "totalForkastede": 1,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 74.4,
+    "endring": 0.6,
+    "prosentStemmegiving": 74.4
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 100,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 28.6469,
+          "endring": {
+            "samme": -6.04456,
+            "ekvivalent": -6.37372
+          },
+          "antall": {
+            "total": 976,
+            "fhs": 510
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.49075,
+          "endring": {
+            "samme": 2.30593,
+            "ekvivalent": 2.16604
+          },
+          "antall": {
+            "total": 153,
+            "fhs": 91
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.46551,
+          "endring": {
+            "samme": 1.87502,
+            "ekvivalent": 1.82809
+          },
+          "antall": {
+            "total": 84,
+            "fhs": 44
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 39.41884,
+          "endring": {
+            "samme": 8.41796,
+            "ekvivalent": -0.77613
+          },
+          "antall": {
+            "total": 1343,
+            "fhs": 541
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.08394,
+          "endring": {
+            "samme": -0.89805,
+            "ekvivalent": 0.17168
+          },
+          "antall": {
+            "total": 71,
+            "fhs": 39
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.87849,
+          "endring": {
+            "samme": -0.12919,
+            "ekvivalent": -2.13351
+          },
+          "antall": {
+            "total": 64,
+            "fhs": 45
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.17405,
+          "endring": {
+            "samme": -0.18408,
+            "ekvivalent": 1.02407
+          },
+          "antall": {
+            "total": 40,
+            "fhs": 24
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.57264,
+          "endring": {
+            "samme": -4.44389,
+            "ekvivalent": 2.17332
+          },
+          "antall": {
+            "total": 258,
+            "fhs": 126
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 10.36102,
+          "endring": {
+            "samme": -1.95076,
+            "ekvivalent": 2.5245
+          },
+          "antall": {
+            "total": 353,
+            "fhs": 145
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": 0,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.64573,
+          "endring": {
+            "samme": 0.6162,
+            "ekvivalent": 0.57074
+          },
+          "antall": {
+            "total": 22,
+            "fhs": 13
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.02935,
+          "endring": {
+            "samme": 0.02935,
+            "ekvivalent": 0.02935
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.02935,
+          "endring": {
+            "samme": 0.02935,
+            "ekvivalent": -0.15813
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.35222,
+          "endring": {
+            "samme": 0.35222,
+            "ekvivalent": 0.35222
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 6
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.14676,
+          "endring": {
+            "samme": 0.05818,
+            "ekvivalent": -0.04072
+          },
+          "antall": {
+            "total": 5,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.08805,
+          "endring": {
+            "samme": 0.05853,
+            "ekvivalent": -0.06193
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.38157,
+          "endring": {
+            "samme": 0.17489,
+            "ekvivalent": 0.1566
+          },
+          "antall": {
+            "total": 13,
+            "fhs": 12
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.23481,
+          "endring": {
+            "samme": 0.23481,
+            "ekvivalent": 0.23481
+          },
+          "antall": {
+            "total": 8,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.49897,
+          "endring": {
+            "samme": 0.02658,
+            "ekvivalent": -1.07583
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 8
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.90784,
+          "endring": {
+            "samme": 1.55354,
+            "ekvivalent": 1.08294
+          },
+          "antall": {
+            "total": 65,
+            "fhs": 38
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.50192,
+            "ekvivalent": -1.68729
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/15/1566/0000",
+        "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T17:40:33",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/15/1566/0001",
+        "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal/mo",
+        "navn": "Mo",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:29",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/15/1566/0002",
+        "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal/nedre+surnadal",
+        "navn": "Nedre Surnadal",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:38",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/15/1566/0003",
+        "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal/b%C3%A6verfjord",
+        "navn": "Bæverfjord",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:35:42",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/15/1566/0004",
+        "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal/b%C3%B8fjorden",
+        "navn": "Bøfjorden",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:40:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/15/1566/0005",
+        "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal/stangvik",
+        "navn": "Stangvik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:29:36",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/15/1566/0006",
+        "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal/todalen",
+        "navn": "Todalen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:37:12",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "1566",
+      "href": "/2021/st/15/1566",
+      "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal/surnadal",
+      "navn": "Surnadal",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 100,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "15",
+      "href": "/2021/st/15",
+      "hrefNavn": "/2021/st/m%C3%B8re+og+romsdal",
+      "navn": "Møre og Romsdal"
+    }
+  }
+}

@@ -1,0 +1,772 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Kristiansand",
+    "nr": "4204"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T22:59:14",
+    "sisteStemmer": "2021-09-13T22:59:05"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 81546,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 60802,
+    "fhs": 35380,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 61547,
+    "fhsGodkjente": 36004,
+    "totalForkastede": 16,
+    "fhsForkastede": 16
+  },
+  "frammote": {
+    "prosent": 74.9,
+    "endring": -2.2,
+    "prosentStemmegiving": 76
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 0,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 22.51316,
+          "endring": {
+            "samme": 0.00652,
+            "ekvivalent": 3.45022
+          },
+          "antall": {
+            "total": 13602,
+            "fhs": 7789
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.40703,
+          "endring": {
+            "samme": 1.02881,
+            "ekvivalent": 0.95806
+          },
+          "antall": {
+            "total": 3871,
+            "fhs": 2513
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.80019,
+          "endring": {
+            "samme": 2.13652,
+            "ekvivalent": 0.99953
+          },
+          "antall": {
+            "total": 2296,
+            "fhs": 1490
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.86219,
+          "endring": {
+            "samme": 2.86322,
+            "ekvivalent": 1.65398
+          },
+          "antall": {
+            "total": 4146,
+            "fhs": 2337
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 13.20633,
+          "endring": {
+            "samme": 1.79881,
+            "ekvivalent": 0.50084
+          },
+          "antall": {
+            "total": 7979,
+            "fhs": 4515
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.93095,
+          "endring": {
+            "samme": 0.21982,
+            "ekvivalent": -4.48232
+          },
+          "antall": {
+            "total": 2375,
+            "fhs": 1606
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.44569,
+          "endring": {
+            "samme": -0.03987,
+            "ekvivalent": 1.29142
+          },
+          "antall": {
+            "total": 2686,
+            "fhs": 1564
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 23.39369,
+          "endring": {
+            "samme": -6.64486,
+            "ekvivalent": 2.31443
+          },
+          "antall": {
+            "total": 14134,
+            "fhs": 8312
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 9.88447,
+          "endring": {
+            "samme": -4.08794,
+            "ekvivalent": 3.57217
+          },
+          "antall": {
+            "total": 5972,
+            "fhs": 3065
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05462,
+          "endring": {
+            "samme": 0.05462,
+            "ekvivalent": 0.05462
+          },
+          "antall": {
+            "total": 33,
+            "fhs": 17
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.00242,
+          "endring": {
+            "samme": 2.01895,
+            "ekvivalent": -8.81717
+          },
+          "antall": {
+            "total": 1814,
+            "fhs": 1043
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07448,
+          "endring": {
+            "samme": 0.07448,
+            "ekvivalent": 0.07448
+          },
+          "antall": {
+            "total": 45,
+            "fhs": 20
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16386,
+          "endring": {
+            "samme": -0.07944,
+            "ekvivalent": -0.44555
+          },
+          "antall": {
+            "total": 99,
+            "fhs": 56
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.192,
+          "endring": {
+            "samme": 0.192,
+            "ekvivalent": 0.192
+          },
+          "antall": {
+            "total": 116,
+            "fhs": 74
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.72991,
+          "endring": {
+            "samme": 0.08398,
+            "ekvivalent": -0.83123
+          },
+          "antall": {
+            "total": 441,
+            "fhs": 271
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.15393,
+          "endring": {
+            "samme": -0.09451,
+            "ekvivalent": -0.22601
+          },
+          "antall": {
+            "total": 93,
+            "fhs": 52
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.08607,
+          "endring": {
+            "samme": -0.10069,
+            "ekvivalent": -0.11331
+          },
+          "antall": {
+            "total": 52,
+            "fhs": 26
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.61571,
+          "endring": {
+            "samme": 0.20965,
+            "ekvivalent": -0.62945
+          },
+          "antall": {
+            "total": 372,
+            "fhs": 265
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.4833,
+          "endring": {
+            "samme": 0.4833,
+            "ekvivalent": 0.4833
+          },
+          "antall": {
+            "total": 292,
+            "fhs": 176
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.63557,
+          "endring": {
+            "samme": 0.11129,
+            "ekvivalent": -0.61523
+          },
+          "antall": {
+            "total": 384,
+            "fhs": 189
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.55629,
+          "endring": {
+            "samme": 2.84234,
+            "ekvivalent": -10.25833
+          },
+          "antall": {
+            "total": 3357,
+            "fhs": 2000
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.12336,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/10/4204/0000",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T14:18:43",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/10/4204/0001",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/flekker%C3%B8y",
+        "navn": "Flekkerøy",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:02:35",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/10/4204/0002",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/ytre+v%C3%A5gsbygd",
+        "navn": "Ytre Vågsbygd",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:26:41",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/10/4204/0003",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/indre+v%C3%A5gsbygd",
+        "navn": "Indre Vågsbygd",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:17:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/10/4204/0004",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/hellemyr",
+        "navn": "Hellemyr",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:22:08",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/10/4204/0005",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/tinnheia%2Fgrim",
+        "navn": "Tinnheia/Grim",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:23:28",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/10/4204/0006",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/kvadraturen",
+        "navn": "Kvadraturen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:12:08",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/10/4204/0007",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/lund+syd",
+        "navn": "Lund syd",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:23:28",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2021/st/10/4204/0008",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/lund+nord",
+        "navn": "Lund nord",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:02:35",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/10/4204/0009",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/gimlekollen%2Ffagerholt",
+        "navn": "Gimlekollen/Fagerholt",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:26:33",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2021/st/10/4204/0010",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/torridal",
+        "navn": "Torridal",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:53:55",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/10/4204/0011",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/justvik",
+        "navn": "Justvik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:31:20",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2021/st/10/4204/0012",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/tveit",
+        "navn": "Tveit",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:46:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2021/st/10/4204/0013",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/h%C3%A5nes",
+        "navn": "Hånes",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:49:46",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2021/st/10/4204/0014",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/s%C3%B8m%2Fstr%C3%B8mme",
+        "navn": "Søm/Strømme",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:53:55",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0015",
+        "href": "/2021/st/10/4204/0015",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/ytre+randesund",
+        "navn": "Ytre Randesund",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:12:00",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0016",
+        "href": "/2021/st/10/4204/0016",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/s%C3%B8gne",
+        "navn": "Søgne",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:59:14",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2021/st/10/4204/0017",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/nodeland",
+        "navn": "Nodeland",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:05:30",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0019",
+        "href": "/2021/st/10/4204/0019",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/finsland",
+        "navn": "Finsland",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:34:46",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0020",
+        "href": "/2021/st/10/4204/0020",
+        "hrefNavn": "/2021/st/vest-agder/kristiansand/rosseland",
+        "navn": "Rosseland",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:02:43",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "4204",
+      "href": "/2021/st/10/4204",
+      "hrefNavn": "/2021/st/vest-agder/kristiansand",
+      "navn": "Kristiansand",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 0,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "10",
+      "href": "/2021/st/10",
+      "hrefNavn": "/2021/st/vest-agder",
+      "navn": "Vest-Agder"
+    }
+  }
+}
