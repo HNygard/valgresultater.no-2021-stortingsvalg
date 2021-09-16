@@ -1,0 +1,609 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Tjeldsund",
+    "nr": "5412"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-15T08:18:48",
+    "sisteStemmer": "2021-09-15T08:18:43"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 3252,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 2452,
+    "fhs": 1041,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 2336,
+    "fhsGodkjente": 925,
+    "totalForkastede": 3,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 75.4,
+    "endring": -0.5,
+    "prosentStemmegiving": 71.8
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 100,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 31.62218,
+          "endring": {
+            "samme": 2.34395,
+            "ekvivalent": 2.81302
+          },
+          "antall": {
+            "total": 770,
+            "fhs": 311
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.31211,
+          "endring": {
+            "samme": -0.46088,
+            "ekvivalent": -0.10806
+          },
+          "antall": {
+            "total": 105,
+            "fhs": 57
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.91581,
+          "endring": {
+            "samme": 1.75167,
+            "ekvivalent": 0.00369
+          },
+          "antall": {
+            "total": 71,
+            "fhs": 40
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 19.09651,
+          "endring": {
+            "samme": 7.7461,
+            "ekvivalent": -0.66428
+          },
+          "antall": {
+            "total": 465,
+            "fhs": 174
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.23203,
+          "endring": {
+            "samme": -0.6306,
+            "ekvivalent": 0.03599
+          },
+          "antall": {
+            "total": 30,
+            "fhs": 13
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.01232,
+          "endring": {
+            "samme": 0.49893,
+            "ekvivalent": -0.48378
+          },
+          "antall": {
+            "total": 49,
+            "fhs": 36
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.1499,
+          "endring": {
+            "samme": -0.77094,
+            "ekvivalent": -0.04615
+          },
+          "antall": {
+            "total": 28,
+            "fhs": 14
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 16.22177,
+          "endring": {
+            "samme": -11.65949,
+            "ekvivalent": -10.97532
+          },
+          "antall": {
+            "total": 395,
+            "fhs": 181
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 17.28953,
+          "endring": {
+            "samme": -1.62782,
+            "ekvivalent": 6.05708
+          },
+          "antall": {
+            "total": 421,
+            "fhs": 163
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.04107,
+          "endring": {
+            "samme": 0.04107,
+            "ekvivalent": 0.04107
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.88912,
+          "endring": {
+            "samme": 1.7727,
+            "ekvivalent": 1.88912
+          },
+          "antall": {
+            "total": 46,
+            "fhs": 27
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": 0,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.02669,
+          "endring": {
+            "samme": 0.21179,
+            "ekvivalent": 1.02669
+          },
+          "antall": {
+            "total": 25,
+            "fhs": 5
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.45175,
+          "endring": {
+            "samme": 0.45175,
+            "ekvivalent": 0.45175
+          },
+          "antall": {
+            "total": 11,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.32854,
+          "endring": {
+            "samme": 0.27033,
+            "ekvivalent": -0.08747
+          },
+          "antall": {
+            "total": 8,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.04107,
+          "endring": {
+            "samme": -0.07535,
+            "ekvivalent": -0.11494
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16427,
+          "endring": {
+            "samme": 0.16427,
+            "ekvivalent": 0.16427
+          },
+          "antall": {
+            "total": 4,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.20534,
+          "endring": {
+            "samme": 0.20534,
+            "ekvivalent": 0.20534
+          },
+          "antall": {
+            "total": 5,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.69815,
+          "endring": {
+            "samme": 0.23249,
+            "ekvivalent": -1.64194
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 8
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.14784,
+          "endring": {
+            "samme": 3.04191,
+            "ekvivalent": 3.57582
+          },
+          "antall": {
+            "total": 101,
+            "fhs": 44
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.23283,
+            "ekvivalent": -0.20801
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/19/5412/0000",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-15T08:18:48",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/19/5412/0002",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/sk%C3%A5nland",
+        "navn": "Skånland",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:54",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/19/5412/0003",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/sandstrand",
+        "navn": "Sandstrand",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:54",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/19/5412/0004",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/grov",
+        "navn": "Grov",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:54",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/19/5412/0006",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/tr%C3%B8ssemark",
+        "navn": "Trøssemark",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:54",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/19/5412/0007",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/kongsvik",
+        "navn": "Kongsvik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2021/st/19/5412/0008",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/fjelldal",
+        "navn": "Fjelldal",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/19/5412/0009",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/ramsund",
+        "navn": "Ramsund",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2021/st/19/5412/0010",
+        "hrefNavn": "/2021/st/troms+romsa/tjeldsund/tjeld%C3%B8y",
+        "navn": "Tjeldøy",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:01:36",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "5412",
+      "href": "/2021/st/19/5412",
+      "hrefNavn": "/2021/st/troms+romsa/tjeldsund",
+      "navn": "Tjeldsund",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 100,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "19",
+      "href": "/2021/st/19",
+      "hrefNavn": "/2021/st/troms+romsa",
+      "navn": "Troms Romsa"
+    }
+  }
+}
