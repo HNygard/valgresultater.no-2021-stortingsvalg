@@ -100,7 +100,9 @@ $downloads = explode("\n", '2021-09-13__2252
 $kretsTotal = 0;
 $kretsForelopig = 0;
 $kretsEndelig = 0;
+$kretsOppgjor = 0;
 $kretsForelopigOgEndelig = 0;
+$kretsForelopigOgEndeligOgOppgjor = 0;
 
 $kretsDiff = array();
 $kretsDiff2 = array();
@@ -114,6 +116,8 @@ foreach ($kretser as $krets) {
     $forelopig100_endelig0_obj = null;
     $endelig100 = false;
     $endelig100_obj = null;
+    $oppgjor100 = false;
+    $oppgjor100_obj = null;
     foreach ($downloads as $download) {
         $filename = __DIR__ . '/../' . $download . '/' . $krets . '.json';
         $kretsObj = json_decode(file_get_contents($filename));
@@ -124,10 +128,16 @@ foreach ($kretser as $krets) {
             $forelopig100_endelig0 = true;
             $forelopig100_endelig0_obj = $kretsObj;
         }
-        if ($kretsObj->opptalt->endelig == 100) {
+        if ($kretsObj->opptalt->endelig == 100 && $kretsObj->opptalt->oppgjor == 0) {
             file_put_contents(__DIR__ . '/endelig100/' . $krets . '.json', file_get_contents($filename));
             $endelig100 = true;
             $endelig100_obj = $kretsObj;
+            break;
+        }
+        if ($kretsObj->opptalt->oppgjor == 100) {
+            file_put_contents(__DIR__ . '/oppgjor100/' . $krets . '.json', file_get_contents($filename));
+            $oppgjor100 = true;
+            $oppgjor100_obj = $kretsObj;
             break;
         }
     }
@@ -139,8 +149,14 @@ foreach ($kretser as $krets) {
     if ($endelig100) {
         $kretsEndelig++;
     }
+    if ($oppgjor100) {
+        $kretsOppgjor++;
+    }
     if ($forelopig100_endelig0 && $endelig100) {
         $kretsForelopigOgEndelig++;
+    }
+    if ($forelopig100_endelig0 && $endelig100 && $oppgjor100) {
+        $kretsForelopigOgEndeligOgOppgjor++;
     }
 
     if ($forelopig100_endelig0 && $endelig100) {
@@ -180,9 +196,12 @@ foreach ($kretser as $krets) {
 
 var_dump($kretsDiff2);
 
-echo 'Totalt kretser ................. : ' . $kretsTotal . "\n";
-echo 'Forløpig 100%, endelig 0% ...... : ' . $kretsForelopig . "\n";
-echo 'Endelig 100% ................... : ' . $kretsEndelig . "\n";
-echo 'Data for foreløpig og endelig .. : ' . $kretsForelopigOgEndelig . "\n";
+echo 'Totalt kretser ............................ : ' . $kretsTotal . "\n";
+echo 'Forløpig 100%, endelig 0% ................. : ' . $kretsForelopig . "\n";
+echo 'Endelig 100% .............................. : ' . $kretsEndelig . "\n";
+echo 'Oppgjør 100% .............................. : ' . $kretsOppgjor . "\n";
+echo "\n";
+echo 'Data for foreløpig og endelig ............. : ' . $kretsForelopigOgEndelig . "\n";
+echo 'Data for foreløpig og endelig og oppgjør .. : ' . $kretsForelopigOgEndeligOgOppgjor . "\n";
 echo "\n";
 echo "(^ Krets = nasjonalt, fylke, kommune og kretser i kommune. Får nok bare kretsnivå med både foreløpig og endelig)\n";
